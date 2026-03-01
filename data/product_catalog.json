@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": "prod_001",
+      "name": "Premium Almonds 16oz",
+      "category": "Nuts",
+      "subcategory": "Almonds",
+      "size": "16oz",
+      "base_price": 12.99,
+      "cost": 6.50,
+      "margin": 0.50,
+      "avg_weekly_units": 150
+    },
+    {
+      "id": "prod_002",
+      "name": "Premium Almonds 8oz",
+      "category": "Nuts",
+      "subcategory": "Almonds",
+      "size": "8oz",
+      "base_price": 7.99,
+      "cost": 4.00,
+      "margin": 0.50,
+      "avg_weekly_units": 200
+    },
+    {
+      "id": "prod_003",
+      "name": "Roasted Cashews 12oz",
+      "category": "Nuts",
+      "subcategory": "Cashews",
+      "size": "12oz",
+      "base_price": 11.99,
+      "cost": 6.00,
+      "margin": 0.50,
+      "avg_weekly_units": 120
+    },
+    {
+      "id": "prod_004",
+      "name": "Organic Coffee Beans 12oz",
+      "category": "Beverages",
+      "subcategory": "Coffee",
+      "size": "12oz",
+      "base_price": 14.99,
+      "cost": 7.50,
+      "margin": 0.50,
+      "avg_weekly_units": 180
+    },
+    {
+      "id": "prod_005",
+      "name": "Organic Coffee Beans 6oz",
+      "category": "Beverages",
+      "subcategory": "Coffee",
+      "size": "6oz",
+      "base_price": 8.99,
+      "cost": 4.50,
+      "margin": 0.50,
+      "avg_weekly_units": 220
+    },
+    {
+      "id": "prod_006",
+      "name": "Ginger Kombucha 16oz",
+      "category": "Beverages",
+      "subcategory": "Kombucha",
+      "size": "16oz",
+      "base_price": 4.99,
+      "cost": 2.50,
+      "margin": 0.50,
+      "avg_weekly_units": 300
+    },
+    {
+      "id": "prod_007",
+      "name": "Trail Mix Original 10oz",
+      "category": "Snacks",
+      "subcategory": "Trail Mix",
+      "size": "10oz",
+      "base_price": 6.99,
+      "cost": 3.50,
+      "margin": 0.50,
+      "avg_weekly_units": 250
+    },
+    {
+      "id": "prod_008",
+      "name": "Dark Chocolate Bar 3.5oz",
+      "category": "Confections",
+      "subcategory": "Chocolate",
+      "size": "3.5oz",
+      "base_price": 3.99,
+      "cost": 2.00,
+      "margin": 0.50,
+      "avg_weekly_units": 400
+    },
+    {
+      "id": "prod_009",
+      "name": "Dried Mango 8oz",
+      "category": "Dried Fruit",
+      "subcategory": "Tropical",
+      "size": "8oz",
+      "base_price": 8.99,
+      "cost": 4.50,
+      "margin": 0.50,
+      "avg_weekly_units": 140
+    },
+    {
+      "id": "prod_010",
+      "name": "Granola Cereal 12oz",
+      "category": "Breakfast",
+      "subcategory": "Cereal",
+      "size": "12oz",
+      "base_price": 5.99,
+      "cost": 3.00,
+      "margin": 0.50,
+      "avg_weekly_units": 200
+    }
+  ]
+}
